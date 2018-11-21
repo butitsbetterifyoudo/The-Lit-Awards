@@ -1,0 +1,42 @@
+h1{
+ font-family:Brush Script MT;
+ text-align:center;
+ font-size:85px;
+ color:pink;
+}
+
+.red{
+    color:#f45f42;
+    text-align:center;
+    font-family: 'Fredoka One', cursive;
+    font-size:65px;
+}
+
+body {
+    background-color:#afeeee;
+}
+
+.orange{
+  font-family: 'Courgette', cursive;
+  font-size:50px;
+  text-align:center;
+  color:#FFA833;
+  }
+  
+ .container{
+     display:flex;
+}
+
+.green{
+  font-family: 'Kalam', cursive;
+  font-size:50px;
+  text-align:center;
+  color:green;
+    }
+    
+.yellow{
+    color:yellow;
+    font-family: 'Kaushan Script', cursive;
+    text-align:center;
+    font-size: 55px;
+    }
