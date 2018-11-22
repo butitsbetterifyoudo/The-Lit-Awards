@@ -1,24 +1,20 @@
 h1{
- font-family:Brush Script MT;
+ font-family:permanent marker;
  text-align:center;
  font-size:85px;
  color:pink;
 }
 
 .red{
-    color:#f45f42;
+    color:#A80000;
     text-align:center;
-    font-family: 'Fredoka One', cursive;
-    font-size:65px;
-}
-
-body {
-    background-color:#afeeee;
+    font-family:Brush Script MT;
+    font-size:70px;
 }
 
 .orange{
   font-family: 'Courgette', cursive;
-  font-size:50px;
+  font-size:55px;
   text-align:center;
   color:#FFA833;
   }
@@ -31,12 +27,49 @@ body {
   font-family: 'Kalam', cursive;
   font-size:50px;
   text-align:center;
-  color:green;
-    }
+  color:#228B22;
+}
     
 .yellow{
     color:yellow;
-    font-family: 'Kaushan Script', cursive;
+    font-family:"Kaushan Script",cursive;
     text-align:center;
     font-size: 55px;
-    }
+}
+
+img{
+    display:block;
+    margin:0px auto;
+}
+
+.bumblebee{
+    font-size:40px;
+    color:yellow;
+    font-family:"Kaushan Script",cursive;
+    text-align:center;
+    
+}
+
+.scarlet{
+    color:#f45f42;
+    text-align:center;
+    font-family:Brush Script MT;
+    font-size:55px;
+}
+
+.limegreen{
+ font-family: 'Kalam', cursive;
+  font-size:35px;
+  text-align:center;
+  color:#228B22;
+}
+
+.box{
+    background-image:url(https://images.pexels.com/photos/1166657/pexels-photo-1166657.jpeg?auto=compress&cs=tinysrgb&h=350);
+    padding:100px;
+    margin:100px;
+}
+
+body{
+    background-color:#7EC0EE;
+}
